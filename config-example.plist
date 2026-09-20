@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>DeviceProperties</key>
+    <dict>
+        <key>Add</key>
+        <dict>
+            <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+            <dict>
+                <key>AAPL,ig-platform-id</key>
+                <data>BwCbPg==</data>
+
+                <key>framebuffer-patch-enable</key>
+                <data>AQAAAA==</data>
+
+                <key>framebuffer-stolenmem</key>
+                <data>AAAwAQ==</data>
+
+                <key>framebuffer-con2-enable</key>
+                <data>AQAAAA==</data>
+
+                <key>framebuffer-con2-type</key>
+                <data>AAgAAA==</data>
+
+                <key>force-online</key>
+                <data>AQAAAA==</data>
+
+                <key>AAPL02,override-no-connect</key>
+                <data></data>
+            </dict>
+        </dict>
+    </dict>
+</dict>
+</plist>
